@@ -11,6 +11,7 @@ export function Transactions() {
   return (
     <div>
       <Header />
+
       <Summary />
 
       <TransactionsContainer>
